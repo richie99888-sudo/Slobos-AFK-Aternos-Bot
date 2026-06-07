@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "5_E_klas.aternos.me",
-    "port": 64091,
+    "port":64091,
     "version": "",
     "try-creative": false
   },
